@@ -1,0 +1,18 @@
+# Ignore everything
+*
+
+# Files to un-ignore
+!.gitignore
+!.gitmodules
+!README.md
+!LICENSE
+!CMakeLists.txt
+!usplayer.code-workspace
+
+# File types to un-ignore
+!*.cpp
+!*.h
+
+# Directories to un-ignore
+!lib
+!lib/driver
