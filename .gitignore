@@ -4,6 +4,7 @@
 # Files to un-ignore
 !.gitignore
 !.gitmodules
+!.gitattributes
 !README.md
 !LICENSE
 !CMakeLists.txt
@@ -14,5 +15,6 @@
 !*.h
 
 # Directories to un-ignore
+!src
 !lib
 !lib/driver
